@@ -3,6 +3,8 @@ import './App.css';
 import Footer from './components/Footer';
 import Header from './components/Header';
 import Homepage  from './components/Homepage';
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
 
 function App() {
   return (
@@ -16,3 +18,4 @@ function App() {
 }
 
 export default App;
+
