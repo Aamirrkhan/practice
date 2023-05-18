@@ -86,3 +86,14 @@
   width: fit-content;
   margin: 0 auto 0.6rem;
 }
+
+
+button.slick-arrow.slick-prev{
+  background-color: red !important;
+  border-radius: 50px;
+  color: #fff;
+  opacity: 1;
+}
+button.slick-arrow.slick-next{
+  background-color: red !important;
+}
